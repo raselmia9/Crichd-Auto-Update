@@ -1,9 +1,12 @@
-name: Auto Update M3U8 Link
+name: Auto Update M3U8 Playlist
 
 on:
   schedule:
     - cron: '*/30 * * * *'  # প্রতি ৩০ মিনিট পরপর রান হবে
   workflow_dispatch:        # ম্যানুয়ালি রান করার অপশন
+
+permissions:
+  contents: write  # গিটহাবে ফাইল কমিট ও পুশ করার অনুমতি দেওয়ার জন্য
 
 jobs:
   update-link:
@@ -26,12 +29,12 @@ jobs:
         run: |
           playwright install --with-deps chromium
 
-      - name: Run script to get M3U8
+      - name: Run script to generate M3U playlist
         run: python main.py
 
-      - name: Commit and push if link changed
+      - name: Commit and push if playlist changed
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add stream.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update stream.txt [skip ci]" && git push)
+          git add playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update playlist.m3u [skip ci]" && git push)
