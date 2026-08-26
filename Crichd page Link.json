@@ -1,13 +1,43 @@
 {
+
+
+
+
+    "14": {
+        "name": "Fox sports 501",
+        "url": "https://cricgo.cc/player.php?id=fox501",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+    },
+    
+
+    "13": {
+        "name": "T Sports",
+        "url": "https://cricgo.cc/player.php?id=gtv",
+        "logo": "https://cdn.cricgo.pro/channel/t-sports/logo.webp"
+    },
+    
+
+
+    "12": {
+        "name": "Sky Sports Cricket",
+        "url": "https://cricgo.cc/player.php?id=crich2",
+        "logo": "https://cdn.cricgo.pro/channel/sky-sports-cricket/logo.webp"
+    },
+    
+
+
+
+    
+    
     "1": {
         "name": "Ten Sports 1",
         "url": "https://crichdsee.st/player.php?id=ten1",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/sony-sports-ten-1/logo.webp"
     },
     "2": {
         "name": "Ten Sports 3",
         "url": "https://crichdsee.st/player.php?id=ten3",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgXdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/sony-sports-ten-3/logo.webp"
     },
     "3": {
         "name": "Criclife 1",
@@ -22,28 +52,30 @@
     "5": {
         "name": "Willow HD",
         "url": "https://crichdsee.st/player.php?id=willowhd",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/willow/logo.webp"
     },
 
 
     "10": {
         "name": "Star sports 1",
         "url": "https://playsto.top/player.php?id=starsp1",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/star-sports-1/logo.webp"
     },
 
     "9": {
         "name": "Star Sports 1",
         "url": "https://cricgo.cc/player.php?id=starsp1",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/star-sports-1/logo.webp"
     },
 
     
     "6": {
         "name": "Star Sports 2",
         "url": "https://crichdsee.st/player.php?id=starsp2",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/star-sports-2/logo.webp"
     },
+
+    
     "7": {
         "name": "Cricgo 5",
         "url": "https://crichdsee.st/player.php?id=cricgo5",
@@ -53,7 +85,7 @@
     "8": {
         "name": "willow extra",
         "url": "https://cricgo.cc/player.php?id=willowextra",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "logo": "https://cdn.cricgo.pro/channel/willow-2/logo.webp"
     },
 
 
