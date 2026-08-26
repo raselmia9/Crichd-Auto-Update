@@ -1,0 +1,35 @@
+name: Auto Update M3U8 Link
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # প্রতি ৩০ মিনিট পরপর রান হবে
+  workflow_dispatch:        # ম্যানুয়ালি রান করার অপশন
+
+jobs:
+  update-link:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Run script to get M3U8
+        run: python get_link.py
+
+      - name: Commit and push if link changed
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add stream.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update stream.txt [skip ci]" && git push)
+          
