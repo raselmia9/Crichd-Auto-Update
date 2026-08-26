@@ -21,10 +21,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          playwright install chromium
+
+      - name: Install Playwright Browsers and Dependencies
+        run: |
+          playwright install --with-deps chromium
 
       - name: Run script to get M3U8
-        run: python get_link.py
+        run: python main.py
 
       - name: Commit and push if link changed
         run: |
@@ -32,4 +35,3 @@ jobs:
           git config --global user.email "action@github.com"
           git add stream.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update stream.txt [skip ci]" && git push)
-          
