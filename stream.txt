@@ -1,1 +1,1 @@
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=oZNfseLZLAlr-27EsQHcQQ&expires=1787737669&ch=willowsd&s=ce188e4d1ef04aa588be9fd8630f33c0
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=0ElmBy0gqJ6Ir5OsSNW6PA&expires=1787738152&ch=willowsd&s=ad93e0814bfe77944c7d094db47b478d|Referer=https://playerr03.com/
