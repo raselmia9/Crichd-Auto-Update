@@ -2,6 +2,11 @@
 
 
 
+    "24": {
+        "name": "MLB",
+        "url": "https://hitcast.st/totwatch.php?value=mstlouiscardinals",
+        "logo": "https://crichd.mobile/assets/channels/geosp.webp"
+    },
     
     "23": {
         "name": "Supper Sports",
