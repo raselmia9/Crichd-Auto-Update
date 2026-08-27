@@ -2,10 +2,65 @@
 
 
 
+    
+    "23": {
+        "name": "Supper Sports",
+        "url": "https://crichdsee.st/player.php?id=geosuper",
+        "logo": "https://crichd.mobile/assets/channels/geosp.webp"
+    },
+    
+    "22": {
+        "name": "A Sports",
+        "url": "https://crichdsee.st/player.php?id=asports",
+        "logo": "https://crichd.mobile/assets/channels/asports.webp"
+    },
+    "21": {
+        "name": "Astro Cricket",
+        "url": "https://crichdsee.st/player.php?id=astrocric",
+        "logo": "https://crichd.mobile/assets/channels/astrocric.webp"
+    },
+
+    "5": {
+        "name": "Willow HD",
+        "url": "https://crichdsee.st/player.php?id=willowhd",
+        "logo": "https://cdn.cricgo.pro/channel/willow/logo.webp"
+    },
+
+
+    
+    "8": {
+        "name": "willow extra",
+        "url": "https://cricgo.cc/player.php?id=willowextra",
+        "logo": "https://cdn.cricgo.pro/channel/willow-2/logo.webp"
+    },
+    
+    
+
+    "16": {
+        "name": "Stat sports Hindi",
+        "url": "https://crichdsee.st/player.php?id=starsp3",
+        "logo": "https://crichd.mobile/assets/channels/starhindi.webp"
+    },
+
+
+    
+    "10": {
+        "name": "Star sports 1",
+        "url": "https://playsto.top/player.php?id=starsp1",
+        "logo": "https://cdn.cricgo.pro/channel/star-sports-1/logo.webp"
+    },
+
+    
+    "9": {
+        "name": "Star Sports 1",
+        "url": "https://cricgo.cc/player.php?id=starsp1",
+        "logo": "https://cdn.cricgo.pro/channel/star-sports-1/logo.webp"
+    },
+
     "15": {
-        "name": "Test",
-        "url": "https://crichd.pk/charlie/us-open-2026/1437",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
+        "name": "Ten Sports",
+        "url": "https://crichdsee.st/player.php?id=tensp",
+        "logo": "https://crichd.mobile/assets/channels/tensp.webp"
     },
     
 
@@ -30,6 +85,11 @@
         "url": "https://cricgo.cc/player.php?id=crich2",
         "logo": "https://cdn.cricgo.pro/channel/sky-sports-cricket/logo.webp"
     },
+    "12": {
+        "name": "Super Cricket",
+        "url": "https://crichdsee.st/player.php?id=osncric",
+        "logo": "https://crichd.mobile/assets/channels/sscricket.webp"
+    },
     
 
 
@@ -37,43 +97,57 @@
     
     
     "1": {
-        "name": "Ten Sports 1",
+        "name": "Sony Sports 1",
         "url": "https://crichdsee.st/player.php?id=ten1",
         "logo": "https://cdn.cricgo.pro/channel/sony-sports-ten-1/logo.webp"
     },
     "2": {
-        "name": "Ten Sports 3",
+        "name": "Sony Sports 2",
+        "url": "https://crichdsee.st/player.php?id=ten2",
+        "logo": "https://cdn.cricgo.pro/channel/sony-sports-ten-2/logo.webp"
+    },
+
+        "17": {
+        "name": "Sony Sports 3",
         "url": "https://crichdsee.st/player.php?id=ten3",
         "logo": "https://cdn.cricgo.pro/channel/sony-sports-ten-3/logo.webp"
     },
+    
+
+        "18": {
+        "name": "Sony Sports 5",
+        "url": "https://crichdsee.st/player.php?id=ten5",
+        "logo": "https://cdn.cricgo.pro/channel/sony-sports-ten-5/logo.webp"
+    },
+    
+
+   
     "3": {
         "name": "Criclife 1",
         "url": "https://crichdsee.st/player.php?id=criclife1",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
     },
+    
+    "19": {
+        "name": "Criclife 2",
+        "url": "https://crichdsee.st/player.php?id=criclife2",
+        "logo": "https://crichd.mobile/assets/channels/cl2.webp"
+    },
+
+    
+    "20": {
+        "name": "Criclife 3",
+        "url": "https://crichdsee.st/player.php?id=criclife3",
+        "logo": "https://crichd.mobile/assets/channels/cl3.webp"
+    },
+    
     "4": {
         "name": "Sony ESPN",
         "url": "https://crichdsee.st/player.php?id=sonyespn",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
     },
-    "5": {
-        "name": "Willow HD",
-        "url": "https://crichdsee.st/player.php?id=willowhd",
-        "logo": "https://cdn.cricgo.pro/channel/willow/logo.webp"
-    },
+    
 
-
-    "10": {
-        "name": "Star sports 1",
-        "url": "https://playsto.top/player.php?id=starsp1",
-        "logo": "https://cdn.cricgo.pro/channel/star-sports-1/logo.webp"
-    },
-
-    "9": {
-        "name": "Star Sports 1",
-        "url": "https://cricgo.cc/player.php?id=starsp1",
-        "logo": "https://cdn.cricgo.pro/channel/star-sports-1/logo.webp"
-    },
 
     
     "6": {
@@ -87,12 +161,6 @@
         "name": "Cricgo 5",
         "url": "https://crichdsee.st/player.php?id=cricgo5",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png"
-    },
-
-    "8": {
-        "name": "willow extra",
-        "url": "https://cricgo.cc/player.php?id=willowextra",
-        "logo": "https://cdn.cricgo.pro/channel/willow-2/logo.webp"
     },
 
 
