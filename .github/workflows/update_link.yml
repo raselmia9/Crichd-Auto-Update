@@ -2,7 +2,7 @@ name: Auto Update M3U8 Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # প্রতি ৩০ মিনিট পরপর রান হবে
+    - cron: '*/10 * * * *'  # প্রতি ১০ মিনিট পরপর রান হবে
   workflow_dispatch:        # ম্যানুয়ালি রান করার অপশন
 
 permissions:
