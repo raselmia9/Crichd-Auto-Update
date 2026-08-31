@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cricket" tvg-logo="https://cdn.cricgo.pro/channel/sky-sports-cricket/logo.webp" group-title="Live Sports",Sky Cricket
-https://dz5.bhalocast.pro:7059/hls/dodosky2.m3u8?md5=3GC1xOsBA6tb_STV2nq5kg&expires=1788148254&ch=dodosky2&s=60e8e5ecb0d45f8283df437cf6b6bc1a|Referer=https://bhalocast.pro/
+https://dz5.bhalocast.pro:7059/hls/dodosky2.m3u8?md5=jRXPkd7g9kVoRKo8GqYiOg&expires=1788150055&ch=dodosky2&s=747a7ec0996e5a21ccfcbe6a1d8ad466|Referer=https://bhalocast.pro/
 #EXTINF:-1 tvg-id="" tvg-name="Supper Sports" tvg-logo="https://crichd.mobile/assets/channels/geosp.webp" group-title="Live Sports",Supper Sports
-https://mz01.playerr03.com:7060/hls/geosp.m3u8?md5=elCE5CTne9C99_WYjPaS8Q&expires=1788148255&ch=geosp&s=896361c868d849697110a828d0f72930|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/geosp.m3u8?md5=Kutr3LtsJu8cDOyrkG59Nw&expires=1788150055&ch=geosp&s=41b69fa0f710c67645b6337d38e23ca5|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="A Sports" tvg-logo="https://crichd.mobile/assets/channels/asports.webp" group-title="Live Sports",A Sports
-https://dz5.bhalocast.pro:7059/hls/asportspk.m3u8?md5=lP1k7dNQ0lVe4Fg5RzCP6Q&expires=1788148255&ch=asportspk&s=c41c1b4647356f70933508646a593f44|Referer=https://bhalocast.pro/
+https://dz5.bhalocast.pro:7059/hls/asportspk.m3u8?md5=YRXGIDSp4IIBgK05WE2KPw&expires=1788150055&ch=asportspk&s=544b3010577809b5548d9aea99f06b47|Referer=https://bhalocast.pro/
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://crichd.mobile/assets/channels/astrocric.webp" group-title="Live Sports",Astro Cricket
-https://mz02.playerr03.com:7060/hls/astrocric.m3u8?md5=03U8VeirURYjRC8-OstjdQ&expires=1788148254&ch=astrocric&s=405adbb0e0be9db9a6846b61d2d59943|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/astrocric.m3u8?md5=0_KZMOdLL4daidkj4bysHg&expires=1788150055&ch=astrocric&s=a0cf95988e67076b3c349c6538b74658|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://cdn.cricgo.pro/channel/willow/logo.webp" group-title="Live Sports",Willow HD
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=It1c0pa8gbEt3dPyn3K7yw&expires=1788148254&ch=hdwillos5&s=6ffb03f3121aa97646b1e406c1b6d35a|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=mll1paDOvdr63tTzs3Qwfg&expires=1788150058&ch=hdwillos5&s=036102b4658f1f09e1571f65cf65f175|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="willow extra" tvg-logo="https://cdn.cricgo.pro/channel/willow-2/logo.webp" group-title="Live Sports",willow extra
-https://mz01.playerr03.com:7060/hls/wextres5.m3u8?md5=GOoGok8OjiJpPbCjfdFuzQ&expires=1788148254&ch=wextres5&s=0c7be38b575e5f7b845cedbd7043d0fb|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/wextres5.m3u8?md5=Fk2lSPnHNWFVqhJuVk72uw&expires=1788150054&ch=wextres5&s=bb5fc5f4b908763b5944a7eb30cb878d|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Stat sports Hindi" tvg-logo="https://crichd.mobile/assets/channels/starhindi.webp" group-title="Live Sports",Stat sports Hindi
-https://mz02.playerr03.com:7060/hls/str1lhil5.m3u8?md5=GVhdioz3OetYX4IJiRq3xQ&expires=1788148254&ch=str1lhil5&s=3595570a8107779c6cec1321357f75d8|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/str1lhil5.m3u8?md5=aBrLtw5MUUl8PZIQQb64Kw&expires=1788150055&ch=str1lhil5&s=e6ce1d8a5a810ed7fee4d5367fd2f1d9|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Star sports 1" tvg-logo="https://cdn.cricgo.pro/channel/star-sports-1/logo.webp" group-title="Live Sports",Star sports 1
-https://mz01.playerr03.com:7060/hls/star1kibich5.m3u8?md5=PER8IbAN5hVbYfGXNm0VJA&expires=1788148254&ch=star1kibich5&s=75e45c0581a02522bb231466f8cc5473|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/star1kibich5.m3u8?md5=nNpJDl4rWcqbbQbrmrzV_A&expires=1788150054&ch=star1kibich5&s=e0ddc696c272a84eda5797e5d0c76721|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://cdn.cricgo.pro/channel/star-sports-2/logo.webp" group-title="Live Sports",Star Sports 2
-https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=rTuu03NSddrCQ4TkQwtRsA&expires=1788148254&ch=star2cl5&s=df679e4bf7b942e27430b19d1b7d1860|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=YnODvptYHs1wlolr0YRzdg&expires=1788150055&ch=star2cl5&s=fa72d83ea72f34b8c71b71105cc65a05|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://crichd.mobile/assets/channels/tensp.webp" group-title="Live Sports",Ten Sports
-https://mz01.playerr03.com:7060/hls/tenspk.m3u8?md5=Zlq2eao-ZHXvUwSiQ4hzrA&expires=1788148254&ch=tenspk&s=7d4d3dbf0f04a8f509804045cd343164|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/tenspk.m3u8?md5=Oaod3kMG_fgU_JRotWLIzw&expires=1788150055&ch=tenspk&s=3f30c3d16574f1acd7d7f6b4ef83409b|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Fox sports 501" tvg-logo="https://crichd.mobile/assets/channels/foxcric.webp" group-title="Live Sports",Fox sports 501
-https://mz01.playerr03.com:7060/hls/cf0sp1.m3u8?md5=TlQA5n4GOsaN1X3toc-T5w&expires=1788148254&ch=cf0sp1&s=81f385945e31d7b6d73f0910bd0cfc49|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/cf0sp1.m3u8?md5=SCmmysvGptQ3MvFnO18TLQ&expires=1788150055&ch=cf0sp1&s=f8403fc4b01cbdc1943c379a7eb2a38b|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://cdn.cricgo.pro/channel/t-sports/logo.webp" group-title="Live Sports",T Sports
-https://mz02.playerr03.com:7060/hls/gtvbd.m3u8?md5=muHXEMCobcdf4X7dwI9fmA&expires=1788148255&ch=gtvbd&s=5202c0341f98c76aa951cc89f123f446|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/gtvbd.m3u8?md5=nQzvJehclNECxRqhw3Lqyw&expires=1788150055&ch=gtvbd&s=2662f96de048c903f949479203da8dfd|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Super Cricket" tvg-logo="https://crichd.mobile/assets/channels/sscricket.webp" group-title="Live Sports",Super Cricket
-https://dz5.bhalocast.pro:7059/hls/sscric.m3u8?md5=x9lSKUrUfV6o8AxDcGB9Ew&expires=1788148254&ch=sscric&s=009e09abe3d408ab82be753ca1315846|Referer=https://bhalocast.pro/
+https://dz5.bhalocast.pro:7059/hls/sscric.m3u8?md5=uQpjZY9q0NLH_sBgoTWumA&expires=1788150055&ch=sscric&s=46dd5c1ae446e925a6a36715eb1c27fb|Referer=https://bhalocast.pro/
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sports 1" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-1/logo.webp" group-title="Live Sports",Sony Sports 1
-https://mz01.playerr03.com:7060/hls/ten1co.m3u8?md5=Lxbl0_tyX4agClej17bTbw&expires=1788148254&ch=ten1co&s=d59479f72fbca39c2066bb5be89c4851|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=k6UT3UHIOPjfX4W63uAAuQ&expires=1788150055&ch=ten1co&s=7ab40a2403b4fb207473ef1c20429f4a|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sports 2" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-2/logo.webp" group-title="Live Sports",Sony Sports 2
-https://mz02.playerr03.com:7060/hls/ten2endia.m3u8?md5=KqQBS26yv22fqHV53_EgnQ&expires=1788148255&ch=ten2endia&s=16efcce185995e3b69185ec7f9ac0efd|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/ten2endia.m3u8?md5=nBYZ3AtBn1RUqZiU8X47lQ&expires=1788150055&ch=ten2endia&s=9c175da21cb11cafec53190131f8b3a8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sports 3" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-3/logo.webp" group-title="Live Sports",Sony Sports 3
-https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=FjwJeB83yRXJpHnI7racaA&expires=1788148254&ch=ten3sd&s=7b8992fdd77d54aac42a360e797db0d9|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/ten3sd.m3u8?md5=TVeURkJYfCsVL2Cpm2ayjw&expires=1788150055&ch=ten3sd&s=b5b75e900d99788e7e8d37586cfa01c0|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sports 5" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-5/logo.webp" group-title="Live Sports",Sony Sports 5
-https://dz5.bhalocast.pro:7059/hls/ten5.m3u8?md5=RNOZgR5-86K_9jzrQ6m1CA&expires=1788148254&ch=ten5&s=1389898d512c2966e03c00bdadb509e4|Referer=https://bhalocast.pro/
+https://dz5.bhalocast.pro:7059/hls/ten5.m3u8?md5=7G-c37PhWE8MzaztMGLX3A&expires=1788150055&ch=ten5&s=e1037579af7f9f98bdc090a8cd7e8dd4|Referer=https://bhalocast.pro/
 #EXTINF:-1 tvg-id="" tvg-name="Criclife 1" tvg-logo="https://crichd.mobile/assets/channels/cl1.webp" group-title="Live Sports",Criclife 1
-https://mz02.playerr03.com:7060/hls/criclife1.m3u8?md5=gZx7s7fXU7mdntGrC4Lu_A&expires=1788148254&ch=criclife1&s=3d6dedc6da2bfa75cfcce9bd595067ec|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=vMTg1EK0rgkTpVp1sPxKDg&expires=1788150056&ch=criclife1&s=309c843f9cf6f2429791b94b3fe5af7c|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Criclife 2" tvg-logo="https://crichd.mobile/assets/channels/cl2.webp" group-title="Live Sports",Criclife 2
-https://mz01.playerr03.com:7060/hls/criclife2.m3u8?md5=5g-83Nqc41N63EEqppRaXA&expires=1788148254&ch=criclife2&s=bc407ddfa44c65ff3fd24c82a9ac7416|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/criclife2.m3u8?md5=CwNo8IB15hdCz4nyR7NG2w&expires=1788150056&ch=criclife2&s=befe15378674ccbf3a6c6cfddd9e3299|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Criclife 3" tvg-logo="https://crichd.mobile/assets/channels/cl3.webp" group-title="Live Sports",Criclife 3
-https://mz01.playerr03.com:7060/hls/criclife3.m3u8?md5=kgDXsYL6EIAoDscnCCFJLA&expires=1788148254&ch=criclife3&s=297c1590759dc6b6d31080891973df3f|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/criclife3.m3u8?md5=QwCbv2awL4Oxm8KEBuqHuA&expires=1788150057&ch=criclife3&s=d44e6377fd54c337c819e72248696b1a|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Sony ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/330px-Sony_ESPN_logo.svg" group-title="Live Sports",Sony ESPN
-https://mz01.playerr03.com:7060/hls/sonyespnind.m3u8?md5=oF1nzlloAuxgCNeifIEjAQ&expires=1788148256&ch=sonyespnind&s=4de0f1b2ec32f1e16e48fae4e9889ce3|Referer=https://playerr03.com/
+https://mz02.playerr03.com:7060/hls/sonyespnind.m3u8?md5=HermYfiaj3k7hDU3PZb36Q&expires=1788150055&ch=sonyespnind&s=6d0630199499c7db877260d87e61a939|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Cricgo 5" tvg-logo="https://crichd.mobile/assets/channels/ptv.webp" group-title="Live Sports",Cricgo 5
-https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=JHwY4QIjxxubiv59aagApA&expires=1788148254&ch=cricgo5&s=c201fb63240d6cdc516a8d226501648b|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=J9G7oZVVXDUzrPYmS8tDXQ&expires=1788150055&ch=cricgo5&s=662ee27c994dc5b0b0c0199cfaf28370|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png" group-title="Live Sports",PTV Sports
-https://mz01.playerr03.com:7060/hls/ptvskpr.m3u8?md5=L1AP3DK5DvXf3cZDxvxItw&expires=1788148254&ch=ptvskpr&s=d265f9102e0e11c360db2749a8da0191|Referer=https://playerr03.com/
+https://mz01.playerr03.com:7060/hls/ptvskpr.m3u8?md5=kBBoRx7Grp3Usl1X7LFkTA&expires=1788150055&ch=ptvskpr&s=6faf74850263f8cc9bdf18fed96fc54d|Referer=https://playerr03.com/
