@@ -1,4 +1,4 @@
-name: Auto Update M3U8 Playlist
+Name: Auto Update M3U8 Playlist
 
 on:
   schedule:
@@ -36,5 +36,5 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update playlist.m3u [skip ci]" && git push)
+          git add playlist.m3u "Crichd All Channels/"
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update playlist and channel files [skip ci]" && git push)
