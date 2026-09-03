@@ -8,7 +8,7 @@ FOLDER_NAME = "Crichd All Channels"
 OUTPUT_PLAYLIST = "playlist.m3u"
 JSON_FILENAME = "Crichd page Link.json"
 
-# আপনার গিটহাব র (Raw) লিংকের বেস পাথ (আপনার ইউজারনেম এবং রিপোজিটরি নাম অনুযায়ী চেক করে নিবেন)
+# গিটহাব র (Raw) লিংকের বেস পাথ
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main"
 
 def load_channels():
@@ -78,12 +78,11 @@ async def main():
 
     for name, logo, stream_link, referer in results:
         if stream_link:
-            # ফাইলের নাম থেকে স্পেস বা বিশেষ চরিত্র নিরাপদ করার জন্য (অথবা সরাসরি চ্যানেলের নাম)
             safe_filename = name.replace("/", "-").strip()
             channel_file_name = f"{safe_filename}.m3u8"
             channel_file_path = os.path.join(FOLDER_NAME, channel_file_name)
 
-            # আলাদা চ্যানেলের নিজস্ব .m3u8 ফাইলের কন্টেন্ট তৈরি করা
+            # আলাদা চ্যানেলের নিজস্ব .m3u8 ফাইলের কন্টেন্ট
             channel_m3u8_content = (
                 "#EXTM3U\n"
                 "#EXT-X-VERSION:3\n"
@@ -95,7 +94,7 @@ async def main():
             with open(channel_file_path, "w", encoding="utf-8") as cf:
                 cf.write(channel_m3u8_content)
 
-            # গিটহাব র (Raw) লিংক ফরম্যাট তৈরি (স্পেসের জায়গায় %20 হ্যান্ডেল করার জন্য)
+            # গিটহাব র (Raw) লিংক ফরম্যাট তৈরি
             encoded_folder_name = FOLDER_NAME.replace(" ", "%20")
             encoded_file_name = channel_file_name.replace(" ", "%20")
             raw_file_url = f"{GITHUB_RAW_BASE}/{encoded_folder_name}/{encoded_file_name}"
