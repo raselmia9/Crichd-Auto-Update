@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/C
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Stat%20sports%20Hindi.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Star sports 1" tvg-logo="https://cdn.cricgo.pro/channel/star-sports-1/logo.webp" group-title="Live Sports",Star sports 1
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Star%20sports%201.m3u8|Referer=https://playerr03.com/
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://cdn.cricgo.pro/channel/star-sports-2/logo.webp" group-title="Live Sports",Star Sports 2
+https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Star%20Sports%202.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://crichd.mobile/assets/channels/tensp.webp" group-title="Live Sports",Ten Sports
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Ten%20Sports.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Fox sports 501" tvg-logo="https://crichd.mobile/assets/channels/foxcric.webp" group-title="Live Sports",Fox sports 501
@@ -23,8 +25,14 @@ https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/C
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/T%20Sports.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Super Cricket" tvg-logo="https://crichd.mobile/assets/channels/sscricket.webp" group-title="Live Sports",Super Cricket
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Super%20Cricket.m3u8|Referer=https://bhalocast.pro/
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 1" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-1/logo.webp" group-title="Live Sports",Sony Sports 1
+https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Sony%20Sports%201.m3u8|Referer=https://playerr03.com/
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 2" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-2/logo.webp" group-title="Live Sports",Sony Sports 2
+https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Sony%20Sports%202.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sports 3" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-3/logo.webp" group-title="Live Sports",Sony Sports 3
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Sony%20Sports%203.m3u8|Referer=https://playerr03.com/
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 5" tvg-logo="https://cdn.cricgo.pro/channel/sony-sports-ten-5/logo.webp" group-title="Live Sports",Sony Sports 5
+https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Sony%20Sports%205.m3u8|Referer=https://bhalocast.pro/
 #EXTINF:-1 tvg-id="" tvg-name="Criclife 1" tvg-logo="https://crichd.mobile/assets/channels/cl1.webp" group-title="Live Sports",Criclife 1
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Criclife%201.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Criclife 2" tvg-logo="https://crichd.mobile/assets/channels/cl2.webp" group-title="Live Sports",Criclife 2
@@ -33,5 +41,7 @@ https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/C
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Criclife%203.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="Sony ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/330px-Sony_ESPN_logo.svg" group-title="Live Sports",Sony ESPN
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Sony%20ESPN.m3u8|Referer=https://playerr03.com/
+#EXTINF:-1 tvg-id="" tvg-name="Cricgo 5" tvg-logo="https://crichd.mobile/assets/channels/ptv.webp" group-title="Live Sports",Cricgo 5
+https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/Cricgo%205.m3u8|Referer=https://playerr03.com/
 #EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkC1LwR663VtQyQXKcpCfB3S-DDsaeuu63if6RkMXcZKNQeKdcyrCWvN65SjzjeMR2yDJnwuCoFavj5ncjkLPc6XKQ2GIK-UTfa8GGmc6SA58eKAHWAnmyDp64dCN8l6Qmrl2YnaorFuSmZqfSO8Hr9v_UQdeSS7QVnDXJTPOiEpMIMqsbD6zIIgUg5Ww/s1254/file_00000000ffb071fa84c1f07f7b4079e7.png" group-title="Live Sports",PTV Sports
 https://raw.githubusercontent.com/raselmia9/Crichd-Auto-Update/refs/heads/main/Crichd%20All%20Channels/PTV%20Sports.m3u8|Referer=https://playerr03.com/
