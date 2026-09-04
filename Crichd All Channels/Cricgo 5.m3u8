@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=3G-MxLUiw4BDdUGmhwBLkg&expires=1788508262&ch=cricgo5&s=e1cb9bdd112eda54957e42b4c9728657
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=SGKr6QZySSUXacKeRKwX2A&expires=1788510064&ch=cricgo5&s=81144c77fbd2b623e7cca3d423e97d03
