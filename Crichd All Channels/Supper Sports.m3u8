@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz02.playerr03.com:7060/hls/geosp.m3u8?md5=uiLIqvGmhzSse_YogNgI0A&expires=1788578459&ch=geosp&s=ddd8548390280c505ebad02c96d1076f
+https://mz01.playerr03.com:7060/hls/geosp.m3u8?md5=HM_kqLeVG_kF25JvviBPFA&expires=1788580260&ch=geosp&s=2d1401115f7c21e32ce46f80b86e1ad5
