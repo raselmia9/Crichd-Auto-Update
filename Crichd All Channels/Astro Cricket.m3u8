@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz02.playerr03.com:7060/hls/astrocric.m3u8?md5=jJr4AH7XW3pQsBz7sdjbsQ&expires=1788821905&ch=astrocric&s=5c2a204add2346c3af87f2969db546f6
+https://mz01.playerr03.com:7060/hls/astrocric.m3u8?md5=QTPboAcxB1tY7SF-lW6WZQ&expires=1788823266&ch=astrocric&s=d551672ee14cfe07376bf0ea169596fa
