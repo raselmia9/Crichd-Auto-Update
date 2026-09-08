@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz01.playerr03.com:7060/hls/cf0sp1.m3u8?md5=KKpTdetFKk7EkOBRKXMl5w&expires=1788904267&ch=cf0sp1&s=dd200a03c672ed3fdba8ce6efc215469
+https://mz02.playerr03.com:7060/hls/cf0sp1.m3u8?md5=d8Ti6fXkIK0gBL0D268Veg&expires=1788906071&ch=cf0sp1&s=e9ccd76be79b4c0f9ff69c0b3e48083e
