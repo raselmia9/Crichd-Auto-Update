@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz01.playerr03.com:7060/hls/gtvbd.m3u8?md5=3I6gQWFes3e44WGzu-u-tw&expires=1789172468&ch=gtvbd&s=d587edd11de2f9a558a71cf627d82778
+https://mz02.playerr03.com:7060/hls/gtvbd.m3u8?md5=qoY3D_k11X0eJL9fmJPOhg&expires=1789174260&ch=gtvbd&s=41ab979527dfa9269b3c0a5784aef2ea
