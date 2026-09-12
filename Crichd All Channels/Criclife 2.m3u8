@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz02.playerr03.com:7060/hls/criclife2.m3u8?md5=xpeqoBSu4LWzGoFUrcbsGA&expires=1789252564&ch=criclife2&s=4865efbac34c017f75a5727eb6b970f5
+https://mz01.playerr03.com:7060/hls/criclife2.m3u8?md5=wG0acpyDQDbegED2FzXktA&expires=1789253462&ch=criclife2&s=3d0a64bc24f67acc0a6a19ec88850561
