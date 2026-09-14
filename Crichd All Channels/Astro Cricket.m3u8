@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz02.playerr03.com:7060/hls/astro.m3u8?md5=fCeCS5gXbSQTKahuPZgtFA&expires=1789347297&ch=astro&s=6367c4f81b24d19aa6e7b74914e129ca
+https://mz01.playerr03.com:7060/hls/astro.m3u8?md5=zOe6CNG5-nVHar6gnfVtbA&expires=1789348865&ch=astro&s=8c6a5f2863cb67312cb3c36c81e26f89
