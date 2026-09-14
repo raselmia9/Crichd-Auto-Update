@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mz02.playerr03.com:7060/hls/hdwillower.m3u8?md5=J2OdzSuFYWfgdwlIbfy9pg&expires=1789431666&ch=hdwillower&s=bbc812c25849ab80fb1d7cf5cd76fd36
+https://mz01.playerr03.com:7060/hls/hdwillower.m3u8?md5=fFsOUt97qT1t0qjUMuUDEA&expires=1789433455&ch=hdwillower&s=1936a0a368c1b834d252abcbd88d5b37
